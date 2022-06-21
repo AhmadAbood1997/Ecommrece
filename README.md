@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+this app developed to offer the products and the categories 
 
-This project is a starting point for a Flutter application.
+to anything that you need sale it,
 
-A few resources to get you started if this is your first Flutter project:
+you can select any product you need and you will put it in the wishlist 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+and when you sure you need the product you can add it to the 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+your cart and you will checkout and select any method you want pay use it
+
+i build it using clean arcitecthire and i retrieve 
+
+the data from firebase backend.
